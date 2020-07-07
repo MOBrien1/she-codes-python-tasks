@@ -31,4 +31,3 @@ mitch_is_home = True
 
 if not moths_in_house and mitch_is_home:
     print("Climb on Mitch.")
-    
